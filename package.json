@@ -1,0 +1,31 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "Respositorio personal para adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francotc/adventjs.git"
+  },
+  "keywords": [
+    "adventjs",
+    "advent",
+    "JavaScript",
+    "Gamification",
+    "Solutions"
+  ],
+  "author": "francotc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francotc/adventjs/issues"
+  },
+  "homepage": "https://github.com/francotc/adventjs#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "type": "module",
+  "private": true
+}
