@@ -1,4 +1,4 @@
-# 🎄My adventjs commented solutions🎄
+# 🎄Mis adventjs.dev soluciones🎄
 adventjs.dev es una plataforma desarrollada por @midudev donde puedes practicar tus habilidades de JavaScript a través de desafíos como un calendario de adviento. Este repositorio contiene mis soluciones propuestas para todos los desafíos.
 
 Como considero que si estás leyendo esto puedes estar en la búsqueda de alguna ayuda para tener éxito en un desafío, se describen todas mis soluciones para que puedas entender lo que implementé.
